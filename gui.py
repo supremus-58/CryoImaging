@@ -1,5 +1,5 @@
 """
-Authors: Mikhail Dorfman & Keith Causey
+Author: Mikhail Dorfman
 Purpose: Development of High Throughput Cryogenics Imaging Assay Platform
 """
 
